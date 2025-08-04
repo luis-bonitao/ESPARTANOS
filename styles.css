@@ -13,5 +13,6 @@ color:rgb(255, 0, 0)
 
 section {
     background: rgba(12, 12, 12, 0.989)
-    padding-bottom: 80px;
+    padding-box 80px;
+    padding-top: 80px;
 }
