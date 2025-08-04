@@ -10,3 +10,8 @@ font-size: 32x;
 color:rgb(255, 0, 0)
 
 }
+
+section {
+    background: rgba(12, 12, 12, 0.989)
+    padding-bottom: 80px;
+}
