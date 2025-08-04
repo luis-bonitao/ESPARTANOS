@@ -4,6 +4,9 @@ body{
 }
 
 header {
-    border: solid 2px rgb(12, 12, 12);
+    border-bottom: solid 2px rgba(12, 12, 12, 0.989);
+padding: 2px;
+font-size: 32x;
+color:rgb(255, 0, 0)
 
 }
