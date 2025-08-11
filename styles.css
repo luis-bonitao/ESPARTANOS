@@ -4,7 +4,7 @@ body{
 }
 
 header {
-    border-bottom: solid 2px rgba(12, 12, 12, 0.989);
+    border-bottom: solid 2px rgba(12, 12, 12, 0.985);
 padding: 2px;
 font-size: 32x;
 color:rgb(255, 0, 0)
@@ -12,7 +12,7 @@ color:rgb(255, 0, 0)
 }
 
 section {
-    background: rgba(12, 12, 12, 0.989);
+    background: rgba(246, 239, 239, 0.989);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
