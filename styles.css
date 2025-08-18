@@ -7,7 +7,7 @@ body{
 
 header {
     border-bottom: solid 2px rgba(12, 12, 12, 0.985);
-padding: 2px;
+padding: 20px;
 font-size: 32x;
 color:rgb(255, 0, 0)
 
@@ -26,10 +26,6 @@ chamada-texto{
     margin-right: 20px;
 }
 
-
-img {
-    height: 300px;
-}
 
 .categoria-videos {
     display: flex;
