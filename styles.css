@@ -1,6 +1,8 @@
 body{
     color: rgb(8, 8, 8);
     background: rgb(179, 23, 23);
+    margin: 0px;
+    margin-bottom: 100px;
 }
 
 header {
@@ -36,6 +38,17 @@ img {
 
 }
 
+.categoria {
+
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+
+
+}
+
+
+
 .categoria-videos  img {
     opacity: 0.5;
     height: 200px;
@@ -46,6 +59,10 @@ img {
     opacity: 1.0;
     border: 1px solid green;
 
+}
 
+.categoria h2 {
+
+    color: blue;
 }
 
