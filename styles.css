@@ -32,5 +32,20 @@ img {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
+    gap:10px
+
+}
+
+.categoria-videos  img {
+    opacity: 0.5;
+    height: 200px;
+
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 1px solid green;
+
+
 }
 
